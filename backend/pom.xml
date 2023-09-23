@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.api</groupId>
-    <artifactId>veiculos</artifactId>
+    <artifactId>npc-uece</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>veiculos</name>
     <description>veiculos</description>
